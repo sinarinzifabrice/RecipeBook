@@ -22,3 +22,4 @@
 /Users/mainguest/Projects/RecipeBook/RecipeBook/obj/Debug/netcoreapp3.1/RecipeBook.dll
 /Users/mainguest/Projects/RecipeBook/RecipeBook/obj/Debug/netcoreapp3.1/RecipeBook.pdb
 /Users/mainguest/Projects/RecipeBook/RecipeBook/obj/Debug/netcoreapp3.1/RecipeBook.genruntimeconfig.cache
+/Users/mainguest/Projects/RecipeBook/RecipeBook/obj/Debug/netcoreapp3.1/RecipeBook.csproj.AssemblyReference.cache

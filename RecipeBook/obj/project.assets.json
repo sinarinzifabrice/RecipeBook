@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "RecipeBook.ServiceLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RecipeBook.ServiceLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecipeBook.ServiceLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RecipeBook.ServiceLibrary/1.0.0": {
+      "type": "project",
+      "path": "RecipeBook.ServiceLibrary/RecipeBook.ServiceLibrary.csproj",
+      "msbuildProject": "RecipeBook.ServiceLibrary/RecipeBook.ServiceLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "RecipeBook.ServiceLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mainguest/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/RecipeBook.ServiceLibrary.csproj": {
+              "projectPath": "/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/RecipeBook.ServiceLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

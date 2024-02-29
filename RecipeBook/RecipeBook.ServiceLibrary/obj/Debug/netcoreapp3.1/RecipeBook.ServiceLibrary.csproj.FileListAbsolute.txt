@@ -1,0 +1,10 @@
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/bin/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.deps.json
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/bin/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.dll
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/bin/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.pdb
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.AssemblyInfoInputs.cache
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.AssemblyInfo.cs
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.sourcelink.json
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.dll
+/Users/mainguest/Projects/RecipeBook/RecipeBook/RecipeBook.ServiceLibrary/obj/Debug/netcoreapp3.1/RecipeBook.ServiceLibrary.pdb
